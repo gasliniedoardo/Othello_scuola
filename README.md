@@ -1,1 +1,1 @@
-# Othello_scuola
+git add *
